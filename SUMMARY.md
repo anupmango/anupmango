@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Design Guide Introduction](README.md)
+* [MangoApps Design Guide](README.md)
 * [Dashboard Designs](dashboard-designs.md)
 * [Web Branding Guide](web-branding.md)
 * [Mobile Branding Guide](mobile-branding.md)
