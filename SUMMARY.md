@@ -7,3 +7,4 @@
 * [Desktop Branding Guide](desktop-branding.md)
 * [Email Branding Guide](email-branding-guide.md)
 * [Image Recommendations](image-recommendations.md)
+* [How to Customize Branding](https://guides.mangoapps.com/admin-guide/branding)
