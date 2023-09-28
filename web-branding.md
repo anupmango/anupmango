@@ -29,4 +29,3 @@ description: >-
 ## Resources Req**uired for Web Branding**&#x20;
 
 **Please provide your company logo (resources) in vector format (.AI, .SVG). Having the resources in native format helps us in creating images in different sizes.** \
-__

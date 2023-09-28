@@ -44,9 +44,9 @@ description: >-
 
 ### Configure Group, Department, Project Banner
 
-> Recommended size: 1358 x 192 px
+> Recommended size: 2080 x 108px
 
-![](.gitbook/assets/7.png)
+![](<.gitbook/assets/7 copy.png>)
 
 ### Post - Featured Image
 
