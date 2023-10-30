@@ -20,9 +20,9 @@ description: >-
 
 ### Company Banner Image
 
-> Recommended size: 1980 x 180 px
+> Recommended size: 1297 x 105px
 
-![](<.gitbook/assets/3 1.png>)
+![](.gitbook/assets/30-10-2023-09-07-33.png)
 
 ### Top Banner Image
 
